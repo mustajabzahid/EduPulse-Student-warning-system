@@ -1,0 +1,6 @@
+{
+  "name": "EduPulse — At-Risk Student Early Warning System",
+  "description": "Academic analytics and machine learning early warning system for identifying at-risk students with data cleaning, stratified ML pipelines, explainability, batch scoring, and what-if simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
